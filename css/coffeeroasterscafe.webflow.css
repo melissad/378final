@@ -1,0 +1,253 @@
+body {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  border-width: 2px;
+  border-color: black;
+  border-radius: 0px;
+  background-color: #33291F;
+  background-image: none;
+   font-family: 'Baskerville Old Face';
+  color: #333;
+  font-size: 12px;
+  line-height: 20px;
+}
+h1 {
+  position: static;
+  display: block;
+  overflow: visible;
+  margin: 20px auto 7px;
+  font-family: 'Baskerville Old Face';
+  font-style: normal;
+  font-variant: normal;
+  color: #B20000;
+  font-size: 50px;
+  line-height: 44px;
+  font-weight: 400;
+  text-align: left;
+  text-shadow: black 0px 1px 2px;
+  
+}
+h2 {
+  margin: 10px 0px;
+   font-family: 'Baskerville Old Face';
+  color: #FF5C33;
+  font-size: 32px;
+  line-height: 36px;
+  font-weight: 200;
+  text-align: left;
+
+}
+h3 {
+  margin: 10px 1px 10px 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  font-family: 'Baskerville Old Face';
+  color: #FFF0E0;
+  font-size: 20px;
+  line-height: 30px;
+  font-style: italic;
+  font-weight: 300;
+  text-align: right;
+  
+}
+h4 {
+  margin: 10px 0px;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+}
+h5 {
+  margin: 10px 0px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+}
+h6 {
+  margin: 10px 0px;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 700;
+}
+p {
+margin: 30px 120px;
+  font-family: 'Baskerville Old Face';
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+  color: #4e3f30;
+  text-align: center;
+  letter-spacing: 0px;
+}
+
+a:hover {
+	background-color: #CC0000;
+}
+a:active {
+	color: white;
+}
+.button {
+  position: static;
+  display: block;
+  overflow: visible;
+  width: 100px;
+  height: auto;
+  margin-top: 18px;
+  margin-right: 10px;
+  margin-left: 0px;
+  margin-bottom: 18px;
+  padding: 0px 15px 4px;
+  float: left;
+  clear: none;
+  border-radius: 20px;
+  background-color: #FF5C33;
+  opacity: .9;
+  -webkit-transform: none;
+  -ms-transform: none;
+  -o-transform: none;
+  transform: none;
+  -webkit-transition: none;
+  -o-transition: none;
+  transition: none;
+   font-family: 'Baskerville Old Face';
+  color: #FFF0E0;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 1px;
+  text-decoration: none;
+  text-transform: none;
+}
+.banner {
+  border: 1px none black;
+   background: url(http://www.wallpaperup.com/uploads/wallpapers/2013/02/03/32758/674c45bcf14d4d5e1735dcbf1f5c1c02.jpg) no-repeat center top #000;
+   background-size: 1500px 600px;
+  background-attachment: fixed;
+}
+.logo {
+  margin-top: 10px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  border-width: 1px;
+  border-color: none;
+  border-radius: 20px;
+  background-image: none;
+}
+.menu {
+  margin-top: 11px;
+  padding-bottom: 0px;
+}
+.slogan {
+  margin-right: 8px;
+  text-shadow: black 1px 1px 3px;
+}
+.title {
+  color: #4e3f30;
+  line-height: 22px;
+  font-style: normal;
+  font-weight: 900;
+  text-align: center;
+  letter-spacing: 1px;
+  text-indent: 0px;
+  text-shadow: none;
+}
+.section1 {
+  margin-top: 30px;
+  padding-bottom: 10px;
+  background-size: auto;
+  background-color: #FFFFFF;
+  background-attachment: fixed;
+}
+.section2 {
+  margin-top: 30px;
+  padding-bottom: 10px;
+  background-size: auto;
+  background-color: #FFFFFF;
+  background-attachment: fixed;
+}
+
+.section3 {
+  margin-top: 30px;
+  padding-bottom: 10px;
+  background-size: auto;
+  background-color: #FFFFFF;
+  background-attachment: fixed;
+}
+.footer {
+  margin-top: 30px;
+  padding-bottom: 0px;
+  background-attachment: fixed;
+  background-color: #FFFFFF;
+
+}
+.social-media {
+  font-family: 'Baskerville Old Face';
+  color: #4e3f30;
+  font-size: 12px;
+  line-height: 22px;
+  font-weight: 200;
+  text-align: center;
+  margin: 0px 40px;
+}
+.twitter {
+  display: inline;
+}
+.media {
+  padding-bottom: 10px;
+}
+.column {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.column1 {
+  margin-top: 20px;
+}
+.history {
+  padding-top: 10px;
+}
+.sandwiches {
+  margin-top: 10px;
+}
+.paragraph-heading {
+  text-align: center;
+  
+}
+.topic-heading {
+  text-shadow: black 0px 1px 1px;
+
+}
+.mission-container {
+  margin-top: 0px;
+  padding-top: 10px;
+}
+.treats {
+  margin-top: 10px;
+}
+@media (max-width: 991px) {
+  .banner {
+    padding-bottom: 10px;
+  }
+  .history {
+    margin-top: 35px;
+  }
+  
+}
+@media (max-width: 767px) {
+  .mission {
+    position: static;
+    clear: none;
+  }
+  .section1 {
+
+}
+@media (max-width: 479px) {
+  .section1 {
+  }
+  .sandwiches {
+    text-align: left;
+  }
+  
+}
